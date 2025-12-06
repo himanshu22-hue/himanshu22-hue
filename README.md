@@ -1,3 +1,8 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Himanshu!
+
+[![Email Badge](https://img.shields.io/badge/-kasaudhanhimanshu58@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kasaudhanhimanshu58@gmail.com)
+
+Welcome to my GitHub profile! I'm a developer passionate about creating meaningful projects and continuously learning new technologies.
 # 💫 About Me:
 🌌 I’m currently working on<br><br>Building React projects to strengthen my front-end development skills.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br><br>Beginner-friendly or intermediate web development projects, especially anything involving React.<br><br>🤝 I’m looking for help with<br><br>Improving my DSA problem-solving approach and writing cleaner, more scalable front-end code.<br><br>🌱 I’m currently learning<br><br>Web development fundamentals, modern React, and data structures & algorithms.<br><br>💬 Ask me about<br><br>Getting started with web development, front-end project ideas, or how I approach learning new tech.<br><br>⚡ Fun fact<br><br>I often end up debugging longer than I code — and somehow enjoy the challenge.
 
